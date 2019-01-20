@@ -1,0 +1,32 @@
+.logo {
+  height: 80px;
+  text-decoration: none;
+}
+
+.link {
+  color: white;
+  margin: 0.5rem;
+}
+
+nav {
+  background-color: black;
+
+  .nav-item {
+    font-size: 16px;
+    line-height: 2.31;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #ffffff;
+  }
+}
+
+a {
+  :hover {
+    border-bottom: 1px solid white;
+    text-decoration: none;
+  }
+}
+
+.bg-black {
+  background-color: black;
+}
